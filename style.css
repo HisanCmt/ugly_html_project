@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    color: yellow;
+    background-color: rgb(90, 90, 185);
+    padding: 8px 8px 8px 8px;
+    margin: 30px 30px 30px 30px;
+    font-weight: 150;
+    font-size: 28px;
+    font-style: inherit;
+}
+
+h2 {
+    font-size: 12px;
+}
+
+#starters_image_div {
+    text-align: center;
+    border: 2px solid blue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 298px;
+    padding: 30px 30px 30px 30px;
+}
+
+#starters_image_div img {
+    width: 280px;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
